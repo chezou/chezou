@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm @chezou 👋
 
-<!--
-**chezou/chezou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Staff Software Engineer at [Treasure Data](https://www.treasuredata.com/).
 
-Here are some ideas to get you started:
+I'm curious about Machine Learning and MLOps. I'm a O'Reilly author about ML and MLOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [仕事ではじめる機械学習 (Machine Learning at work)](https://www.oreilly.co.jp/books/9784873119472/) 初版、第2班
+  - [머신러닝 실무 프로젝트](https://www.hanbit.co.kr/store/books/look.php?p_code=B2700797734) Korean translation
+  - 机器学习应用系统设计 Chinese translation
+  - [機器學習｜工作現場的評估、導入與實作](http://books.gotop.com.tw/v_A576) Traditional Chinese translation
+- [MLOpsの歩き方 (Introduction of MLOps)](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019)
+
+I also maintaining data related open source, e.g., tabula-py.
+
+![chezou's GitHub stats](https://github-readme-stats.vercel.app/api?username=chezou&show_icons=true)
