@@ -2,7 +2,13 @@
 
 I'm a Staff Software Engineer at [Treasure Data](https://www.treasuredata.com/).
 
-I'm curious about Machine Learning and MLOps. I'm a O'Reilly author about ML and MLOps.
+I'm curious about Machine Learning and MLOps.
+
+See detail at: https://chezo.uno/
+
+I'm a O'Reilly author about ML and MLOps.
+
+📗 My books:
 
 - [仕事ではじめる機械学習 (Machine Learning at work)](https://www.oreilly.co.jp/books/9784873119472/) 初版、第2班
   - [머신러닝 실무 프로젝트](https://www.hanbit.co.kr/store/books/look.php?p_code=B2700797734) Korean translation
