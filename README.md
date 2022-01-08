@@ -12,4 +12,5 @@ I'm curious about Machine Learning and MLOps. I'm a O'Reilly author about ML and
 
 I also maintaining data related open source, e.g., tabula-py.
 
-![chezou's GitHub stats](https://github-readme-stats.vercel.app/api?username=chezou&show_icons=true)
+![chezou's GitHub stats](https://github-readme-stats.vercel.app/api?username=chezou&show_icons=true&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chezou&layout=compact&langs_count=8"/>
