@@ -20,3 +20,5 @@ I'm also maintaining data related open sources, e.g., tabula-py.
 
 ![chezou's GitHub stats](https://github-readme-stats.vercel.app/api?username=chezou&show_icons=true&hide_border=true)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chezou&layout=compact&langs_count=8"/>
+
+My <a rel="me" href="https://mastodon.social/@chezou">Mastodon</a> account
