@@ -14,6 +14,7 @@ I'm an O'Reilly author about ML and MLOps.
   - [머신러닝 실무 프로젝트](https://www.hanbit.co.kr/store/books/look.php?p_code=B2700797734) Korean translation
   - 机器学习应用系统设计 Chinese translation
   - [機器學習｜工作現場的評估、導入與實作](http://books.gotop.com.tw/v_A576) Traditional Chinese translation
+  - [머신러닝 실무 프로젝트(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B9202577080) 2nd edition Korean translation
 - [MLOpsの歩き方 (Introduction of MLOps)](https://www.lambdanote.com/products/nmonthly-vol-1-no-1-2019)
 
 I'm also maintaining data related open sources, e.g., tabula-py.
