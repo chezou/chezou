@@ -1,6 +1,6 @@
 ### Hi, I'm @chezou 👋
 
-I'm a Staff Software Engineer at [Treasure Data](https://www.treasuredata.com/).
+I'm a Principal Software Engineer at [Treasure Data](https://www.treasuredata.com/).
 
 I'm curious about Machine Learning and MLOps.
 
