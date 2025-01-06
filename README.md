@@ -10,7 +10,7 @@ I'm an O'Reilly author about ML and MLOps.
 
 📗 My books:
 
-- [仕事ではじめる機械学習 (Machine Learning at work)](https://www.oreilly.co.jp/books/9784873119472/) 初版、第2班
+- [仕事ではじめる機械学習 (Machine Learning at work)](https://www.oreilly.co.jp/books/9784873119472/) 初版、第2版
   - [머신러닝 실무 프로젝트](https://www.hanbit.co.kr/store/books/look.php?p_code=B2700797734) Korean translation
   - 机器学习应用系统设计 Chinese translation
   - [機器學習｜工作現場的評估、導入與實作](http://books.gotop.com.tw/v_A576) Traditional Chinese translation
