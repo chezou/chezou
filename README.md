@@ -24,6 +24,6 @@ I'm also maintaining data related open sources, especially, [tabula-py](https://
   <img alt="chezou's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=chezou&show_icons=true&hide_border=true">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=chezou&layout=compact&langs_count=8&exclude_repo=chezo.uno%2Cchezou.github.io%2Cchezou-hugo&theme=github_dark">
-  <img height="180em" alt="chezou's top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chezou&layout=compact&langs_count=8&exclude_repo=chezo.uno%2Cchezou.github.io%2Cchezou-hugo">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=chezou&layout=compact&langs_count=8&hide=html&hide_border=true&exclude_repo=chezo.uno%2Cchezou.github.io%2Cchezou-hugo&theme=github_dark">
+  <img height="180em" alt="chezou's top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chezou&layout=compact&langs_count=8&hide=html&hide_border=true&exclude_repo=chezo.uno%2Cchezou.github.io%2Cchezou-hugo">
 </picture>
