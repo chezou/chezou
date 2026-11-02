@@ -1,8 +1,8 @@
 ### Hi, I'm @chezou 👋
 
-I'm a Principal Software Engineer at [Treasure Data](https://www.treasuredata.com/).
+I'm a Staff Software Engineer at [LayerX](https://www.layerx.co.j/p).
 
-I'm curious about Machine Learning and MLOps.
+I'm curious about AI Agent and Machine Learning.
 
 See detail at: https://chezo.uno/
 
