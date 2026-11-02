@@ -19,5 +19,11 @@ I'm an O'Reilly author about ML and MLOps.
 
 I'm also maintaining data related open sources, especially, [tabula-py](https://github.com/chezou/tabula-py), which extracts tables from PDF in Python.
 
-![chezou's GitHub stats](https://github-stats-extended.vercel.app/api?username=chezou&show_icons=true&hide_border=true)
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chezou&layout=compact&langs_count=8"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=chezou&show_icons=true&hide_border=true&theme=github_dark">
+  <img alt="chezou's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=chezou&show_icons=true&hide_border=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=chezou&layout=compact&langs_count=8&theme=github_dark">
+  <img height="180em" alt="chezou's top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chezou&layout=compact&langs_count=8">
+</picture>
